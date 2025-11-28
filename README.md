@@ -1,1 +1,5 @@
-# OOPIP_CourseWork
+# Падрыхтаваны адміністратарскі акаўнт
+# Name:
+GuestAdmin
+# Password:
+GuestPassword
