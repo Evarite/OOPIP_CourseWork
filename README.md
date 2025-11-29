@@ -3,3 +3,6 @@
 GuestAdmin
 # Password:
 GuestPassword
+
+# Водгук можна напісаць сюды, калі ласка
+tg: @Evaritee
